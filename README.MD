@@ -8,7 +8,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 # <u>Módulos</u>
 
-## 1. <u>**Fundamentos**</u>
+### 1. <u>**Fundamentos**</u> 
     - Unix, Shell e Git
     - Introdução à HTML & CSS
     - Introdução à JavaScript
@@ -16,6 +16,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
     - HTML e CSS: Forms, Flexbox e Responsivo
     - Introdução à JavaScript ES6 e Testes Unitários
     - Higher Order Functions do JavaScript ES6
-## 2. <u>**Front-end**</u>
-## 3. <u>**Back-end**</u>
-## 4. <u>**Ciência da Computação**</u>
+### 2. <u>**Front-end**</u>
+### 3. <u>**Back-end**</u>
+### 4. <u>**Ciência da Computação**</u>
+
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
