@@ -1,7 +1,34 @@
 div{
     background-color: lightblue;
+    border-radius: 10px;
 }
 
 div:hover{
     background-color: lightgreen;
+    border-radius: 10px;
+}
+
+#primaria{
+    border: solid blueviolet;
+    border-radius: 10px;
+}
+
+#secundaria{
+    border: solid yellowgreen;
+    border-radius: 10px;
+}
+
+#complementar{
+    border: solid burlywood;
+    border-radius: 10px;
+}
+
+#escura{
+    border: solid khaki;
+    border-radius: 10px;
+}
+
+#clara{
+    border: solid midnightblue;
+    border-radius: 10px;
 }
