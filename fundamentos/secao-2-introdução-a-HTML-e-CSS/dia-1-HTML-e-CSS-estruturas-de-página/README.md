@@ -12,7 +12,7 @@ Nesta seção foi proposto algumas atividades referente ao conteúdo de HTML do 
     - Copie o código acima e então crie um parágrafo para cada pessoa na lista. Escreva uma mensagem bem bonita;
     - Crie um link entre a lista e os parágrafos de pessoas;
     - Crie um link para a página do Google. Ela deve ser aberta em outra página.
-### 3. <u>**Exercícios - Construindo seu primeiro Portfólio Web**</u> :alarm_clock: 
+### 3. <u>**Exercícios - Construindo seu primeiro Portfólio Web**</u> :heavy_check_mark:
     - Seu nome completo;
     - Uma foto atual sua, acompanhada de um texto alternativo, que deve ser a descrição da foto que você está usando;
     - Uma breve descrição sobre você, destacando algumas informações como nacionalidade e a cidade/estado onde mora;
