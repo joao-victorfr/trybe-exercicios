@@ -1,0 +1,43 @@
+div{
+    background-color: lightblue;
+    border-radius: 10px;
+
+}
+
+div:hover{
+    background-color: lightgreen;
+    border-radius: 10px;
+}
+
+#primaria{
+    border: solid blueviolet;
+    border-radius: 10px;
+    font-style: italic;
+}
+
+#secundaria{
+    border: solid yellowgreen;
+    border-radius: 10px;
+}
+
+#complementar{
+    border: none burlywood;
+    border-radius: 10px;
+    font-style: italic;
+}
+
+#escura{
+    border: solid khaki;
+    border-radius: 10px;
+}
+
+#clara{
+    border: solid midnightblue;
+    border-radius: 10px;
+    font-style: italic;
+}
+
+.terceira{
+    padding: 1px;
+    border: solid burlywood;
+}
