@@ -1,6 +1,7 @@
 div{
     background-color: lightblue;
     border-radius: 10px;
+
 }
 
 div:hover{
@@ -11,6 +12,7 @@ div:hover{
 #primaria{
     border: solid blueviolet;
     border-radius: 10px;
+    font-style: italic;
 }
 
 #secundaria{
@@ -21,6 +23,7 @@ div:hover{
 #complementar{
     border: none burlywood;
     border-radius: 10px;
+    font-style: italic;
 }
 
 #escura{
@@ -31,6 +34,7 @@ div:hover{
 #clara{
     border: solid midnightblue;
     border-radius: 10px;
+    font-style: italic;
 }
 
 .terceira{
