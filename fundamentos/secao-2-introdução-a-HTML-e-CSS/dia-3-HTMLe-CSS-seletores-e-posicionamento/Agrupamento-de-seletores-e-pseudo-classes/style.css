@@ -1,0 +1,7 @@
+div{
+    background-color: lightblue;
+}
+
+div:hover{
+    background-color: lightgreen;
+}
