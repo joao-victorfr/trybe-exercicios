@@ -19,7 +19,7 @@ div:hover{
 }
 
 #complementar{
-    border: solid burlywood;
+    border: none burlywood;
     border-radius: 10px;
 }
 
@@ -31,4 +31,9 @@ div:hover{
 #clara{
     border: solid midnightblue;
     border-radius: 10px;
+}
+
+.terceira{
+    padding: 1px;
+    border: solid burlywood;
 }
