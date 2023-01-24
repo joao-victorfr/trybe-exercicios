@@ -1,3 +1,4 @@
+~~~
 mkdir unix_tests
 cd unix_tests
   
@@ -8,7 +9,7 @@ cp trybe.txt trybe_backup.txt
 mv trybe.txt outro_nome.txt
 
 mkdir backup
-  
+
 mv trybe_backup.txt backup
     
 mkdir backup2
@@ -25,9 +26,4 @@ ls -l .
 rm -rd backup
     
 clear
-
-head -n 5 skills.txt
-  
-tail -n 4 skills.txt
-    
-rm *.txt
+~~~
