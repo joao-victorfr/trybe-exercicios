@@ -10,7 +10,7 @@ switch(statusPessoa){
     break;
 
     case "reprovada":
-        console.log("Você foi reprovada(o)");
+        console.log ("Você foi reprovada(o)");
     break;
 
     default:
